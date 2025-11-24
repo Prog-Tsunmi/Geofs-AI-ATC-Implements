@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoFS AI (GPT) ATC
 // @namespace    https://avramovic.info/
-// @version      1.0.9
+// @version      1.1.1
 // @description  AI ATC for GeoFS using free PuterJS GPT API
 // @author       Prog Tsunmi
 // @license      MIT
