@@ -9,8 +9,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @grant        GM.getResourceText
 // @grant        GM.getResourceUrl
-// @resource     airports https://github.com/avramovic/geofs-ai-atc/raw/master/airports.json
-// @resource     radiostatic https://github.com/avramovic/geofs-ai-atc/raw/master/radio-static.mp3
+// @resource     airports https://github.com/prog-tsunmi/geofs-ai-atc/raw/master/airports.json
+// @resource     radiostatic https://github.com/prog-tsunmi/geofs-ai-atc/raw/master/radio-static.mp3
 // ==/UserScript==
 
 (function() {
